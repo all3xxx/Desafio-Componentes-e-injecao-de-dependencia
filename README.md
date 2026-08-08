@@ -23,17 +23,13 @@ O cálculo do valor total do pedido consiste em aplicar o desconto ao valor bás
 
 Um pedido é representado pelo objeto especificado abaixo:
 
-- `code`: Integer
-- `basic`: Double
-- `discount`: Double
+<img width="143" height="102" alt="Image" src="https://github.com/user-attachments/assets/2c4d4d3d-86bf-4d35-8e0a-1f97fef3c617" />
 
 ## Classes de serviço
 
 O projeto possui duas classes de serviço, cada uma com sua responsabilidade, conforme especificado abaixo:
 
-| OrderService | ShippingService |
-|---|---|
-| `+ total(order : Order) : double` | `+ shipment(order : Order) : double` |
+<img width="574" height="71" alt="Image" src="https://github.com/user-attachments/assets/233298c6-3f03-4d5d-9901-f0933b38cd82" />
 
 `OrderService` é responsável por operações referentes a pedidos.
 
@@ -43,9 +39,9 @@ O projeto possui duas classes de serviço, cada uma com sua responsabilidade, co
 
 A saída será mostrada no log do terminal da aplicação, que pedirá como entrada de dados:
 
-- código
-- valor básico
-- porcentagem de desconto
+- Código
+- Valor básico
+- Porcentagem de desconto
 
 ## Competências avaliadas
 
