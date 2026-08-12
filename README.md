@@ -1,6 +1,6 @@
-# Desafio 1 Java Spring Professional - DevSuperior
+# Desafio Componentes e injeção de dependência - Java Spring Professional
 
-Esse projeto consiste no primeiro desafio da formação Java Spring Professional da plataforma Devsuperior.
+Projeto desenvolvido como parte do primeiro desafio da formação Java Spring Professional, da plataforma Devsuperior
 
 ## Tecnologias
 
@@ -42,6 +42,11 @@ A saída será mostrada no log do terminal da aplicação, que pedirá como entr
 - Código
 - Valor básico
 - Porcentagem de desconto
+
+## Critérios de avaliação
+
+- Valor correto da saída do programa
+- Projeto de componentes implementado corretamente
 
 ## Competências avaliadas
 
